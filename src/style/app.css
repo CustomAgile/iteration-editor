@@ -1,0 +1,38 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.x-body {
+    background-color: #F5F5F5;
+}
+
+.ts-bold {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: ProximaNovaSemiBold,Helvetica,Arial;
+    text-transform: uppercase;
+}
+
+.ts-field-display {
+    margin-bottom: 20px;
+    font: 12px arial, sans-serif;
+    background-color: #fff;
+    padding: 10px;
+}
+
+b.ts-field-display {
+    font-weight: 900;
+}
